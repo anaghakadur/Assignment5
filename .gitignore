@@ -1,5 +1,6 @@
-node_modules/
 package-lock.json
 package.json
-dist/css/desktop.ini
+desktop.ini
+node_modules
 dist/images/desktop.ini
+dist/css/desktop.ini
