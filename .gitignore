@@ -1,2 +1,5 @@
 node_modules/
+package-lock.json
 package.json
+dist/css/desktop.ini
+dist/images/desktop.ini
